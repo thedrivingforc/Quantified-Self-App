@@ -1,0 +1,8 @@
+flask
+flask_login
+flask_sqlalchemy
+jinja2
+numpy
+panda
+matplotlib
+sqlalchemy
